@@ -8,7 +8,7 @@ The Second dataset provides data about restaurents from Bangalore. We curated th
 
 Links to datasets:
 
-[1]
-<a href="https://www.kaggle.com/datasets/moazzimalibhatti/co2-emission-by-countries-year-wise-17502022?resource=download" target="_blank">CO2 Emission Data</a>
+[1] [CO2 emission data](https://www.kaggle.com/datasets/moazzimalibhatti/co2-emission-by-countries-year-wise-17502022?resource=download)
 
-[2]<a href="https://www.kaggle.com/datasets/moazzimalibhatti/co2-emission-by-countries-year-wise-17502022?resource=download](https://www.kaggle.com/datasets/manishmathias/swiggy-bangalore" target="_blank">Swiggy Restaurent Data</a>
+[2] [Swiggy Restaurent Data](https://www.kaggle.com/datasets/manishmathias/swiggy-bangalore)
+
